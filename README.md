@@ -66,4 +66,6 @@ java TicTacToe
 <p>This project is open-source and available under the MIT License. Feel free to modify and distribute as needed.</p>
 
 <h2>Screenshots</h2>
-<p>ScreenShot.gif</p>
+<p>
+  <img src="https://github.com/thowfique041/Tic-Tac-Toe-Game/blob/main/ScreenShot.gif" alt="Tic Tac Toe Screenshot" width="500">
+</p>
